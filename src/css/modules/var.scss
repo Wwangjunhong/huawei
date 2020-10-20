@@ -1,0 +1,16 @@
+
+$defaultColor : #848484;
+$defaultFontSize : 16px;
+$defaultContainer : 1200px;
+
+@mixin posLT {
+    position: absolute;
+    left: 0;
+    top: 0;
+}
+
+@mixin wh100 {
+    height: 100%;
+    width: 100%;
+    display: block;
+}

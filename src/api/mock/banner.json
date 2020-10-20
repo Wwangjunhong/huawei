@@ -3,16 +3,20 @@
     "code" : 0,
     "banner_list" : [
         {
-            "imgUrl" : "https://res.vmallres.com/pimages//pages/picImages/SvoDG8hGzgJRqyqqDy3M.jpg",
-            "imgLink" : "https://www.vmall.com/product/10086478053817.html"
+            "imgUrl":"https://res.vmallres.com/pimages//pages/picImages/17277302130610377271.jpg",
+            "imgLink":"https://sale.vmall.com/honor.html"
         },
         {
-            "imgUrl" : "https://res.vmallres.com/pimages//pages/picImages/umfjbo8MJzplGtwWvECR.jpg",
-            "imgLink" : "https://www.vmall.com/huawei"
+            "imgUrl":"https://res.vmallres.com/pimages//pages/picImages/61009667030616690016.jpg",
+            "imgLink":"https://sale.vmall.com/pseries.html"
         },
         {
-            "imgUrl" : "https://res.vmallres.com/pimages//pages/picImages/XmPuLTHlBHxaJFMl8Zh9.jpg",
-            "imgLink" : "https://www.vmall.com/product/10086226569988.html"
+            "imgUrl":"https://res.vmallres.com/pimages//pages/picImages/54998413030611489945.jpg",
+            "imgLink":"https://sale.vmall.com/honorhome.html"
+        },
+        {
+            "imgUrl":"https://res.vmallres.com/pimages//pages/picImages/23202402130610420232.png",
+            "imgLink":"https://www.vmall.com/product/10086938832551.html"
         }
     ]
 }
